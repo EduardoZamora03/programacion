@@ -1,0 +1,4 @@
+Nombre: Eduardo
+Edad: 18
+Estatura: 1.76
+Peso: 87.7 
